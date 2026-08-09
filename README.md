@@ -18,7 +18,8 @@ knowledge of **system design** and **authentication architecture** through hands
 - 📚 Focused on system design, architecture, and authentication patterns — I learn best by shipping real projects
 - 🎯 Open to: Software engineering roles · Full-stack development · Open-source collaboration
 <br>
-<h2">🛠️ Tech Stack</h2>
+
+<h2>🛠️ Tech Stack</h2>
  
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
