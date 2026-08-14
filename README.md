@@ -50,13 +50,6 @@ knowledge of **system design** and **authentication architecture** through hands
 <img src="https://img.shields.io/badge/Software%20Architecture-4B5563?style=for-the-badge">
 </p>
 <br>
-
-<h2>📊 GitHub Stats</h2>
- 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaherAhmed0&theme=dark&hide_border=true&background=0D1117" />
-</div>
-<br>
 <h2>🤝 Connect With Me</h2>
  
 <p align="center"> <a href="https://github.com/MaherAhmed0"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/maher-ahmed-2a1319403"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:0maherahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> </p>
