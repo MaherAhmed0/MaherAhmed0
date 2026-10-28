@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F2F2F2&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Maher+%F0%9F%91%8B;" alt="Typing SVG" />
 </a>
 
-### Backend-Focused Software Developer
+### Backend-Focused Software Engineer
 
 I build backend systems while digging into the engineering principles and decisions that make them reliable, secure, and maintainable.
 
@@ -18,7 +18,7 @@ I build backend systems while digging into the engineering principles and decisi
 
 - I like going beyond implementation to understand **why systems are designed the way they are and the tradeoffs behind those decisions**.
 - Deepening my understanding of **backend engineering fundamentals, system design, and software architecture** through hands-on projects.
-- Particularly interested in **application security, authentication, authorization, and secure system design**.
+- Aiming to grow into a **software architect** by building projects that force me to make and justify real design decisions.
 
 <br>
 
@@ -50,7 +50,14 @@ I build backend systems while digging into the engineering principles and decisi
 
 <br>
 
-<h2>🎯 Areas of Interest</h2> <p align="center"> <img src="https://img.shields.io/badge/Backend%20Architecture-4B5563?style=for-the-badge"> <img src="https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge"> <img src="https://img.shields.io/badge/Application%20Security-4B5563?style=for-the-badge"> <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-4B5563?style=for-the-badge"> <img src="https://img.shields.io/badge/Data%20%26%20Caching%20Strategies-4B5563?style=for-the-badge"> <img src="https://img.shields.io/badge/Observability%20%26%20Reliability-4B5563?style=for-the-badge"> </p>
+<h2>🎯 Areas of Interest</h2> <p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Architecture-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/System%20Design-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Database%20Design-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Application%20Security-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-4B5563?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI--Assisted%20Development-4B5563?style=for-the-badge">
+</p>
 
 <br>
 
@@ -61,11 +68,10 @@ I'm open to software development opportunities, collaboration, and open-source w
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/maher-ahmed-2a1319403"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/maher-ahmed0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:0maherahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2370ED,100:0d1117&height=120&section=footer" alt="Waving footer graphic" />
-```
